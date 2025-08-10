@@ -38,7 +38,7 @@ This project is inspired by the anime **Psycho-Pass**, which explores the concep
 
 ## 🏷️ Contract Address
 
-Deployed on Stacks Testnet at: [[https://github.com/hadyandev/psycho-pass-ui](https://explorer.hiro.so/txid/ST34EFSRM1QD0PX8QWQZBHZBQSKXHWPBV5MXTAA7Y.psycho-score-test2?chain=testnet)](Psycho-Pass Smart Contract)
+Deployed on Stacks Testnet at: [https://explorer.hiro.so/txid/ST34EFSRM1QD0PX8QWQZBHZBQSKXHWPBV5MXTAA7Y.psycho-score-test2?chain=testnet](Psycho-Pass Smart Contract)
 
 ## 🔗 Related Frontend Repo (Work in Progress)
 
