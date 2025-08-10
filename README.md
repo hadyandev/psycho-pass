@@ -36,6 +36,10 @@ This smart contract on the Stacks blockchain provides:
 
 This project is inspired by the anime **Psycho-Pass**, which explores the concept of measuring a person’s psychological state and assigning a "crime coefficient" score. The smart contract mimics this idea by assigning psycho-scores to users and rewarding them accordingly on-chain.
 
+## 🏷️ Contract Address
+
+Deployed on Stacks Testnet at: [[https://github.com/hadyandev/psycho-pass-ui](https://explorer.hiro.so/txid/ST34EFSRM1QD0PX8QWQZBHZBQSKXHWPBV5MXTAA7Y.psycho-score-test2?chain=testnet)](Psycho-Pass Smart Contract)
+
 ## 🔗 Related Frontend Repo (Work in Progress)
 
 You can check out the frontend repository here (still under active development):
