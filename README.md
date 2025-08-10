@@ -42,6 +42,5 @@ Deployed on Stacks Testnet at: https://explorer.hiro.so/txid/ST34EFSRM1QD0PX8QWQ
 
 ## 🔗 Related Frontend Repo (Work in Progress)
 
-You can check out the frontend repository here (still under active development):
-
+You can check out the frontend repository here:
 [https://github.com/hadyandev/psycho-pass-ui](https://github.com/hadyandev/psycho-pass-ui)
